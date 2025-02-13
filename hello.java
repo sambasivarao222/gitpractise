@@ -9,3 +9,4 @@ System.out.println(“hello this is master”);
 "changing in branch samba"
 "note: will it update in master and in github or error"
 
+"updated in both master and git hub"
